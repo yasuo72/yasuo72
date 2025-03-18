@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm ROHIT SINGH</h1>
 <h3 align="center">A Passionate Full Stack Developer & Android App Enthusiast 🚀</h3>
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-profile-id" alt="ROHIT SINGH" width="200" height="200" style="border-radius: 50%;"/>
+</p>
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=yasuo72&label=Profile%20views&color=0e75b6&style=flat" alt="yasuo72" /> 
 </p>
@@ -61,12 +65,39 @@ I work with a wide range of technologies to bring ideas to life. Here's a glimps
 
 ---
 
+## 🚀 Top Projects:
+Here are some of my standout projects that I'm proud of:
+
+### 1. **Project Name 1**
+   - **Description:** A brief description of the project.
+   - **Tech Stack:** List of technologies used.
+   - **Link:** [Project 1](https://github.com/yasuo72/project1)
+
+### 2. **Project Name 2**
+   - **Description:** A brief description of the project.
+   - **Tech Stack:** List of technologies used.
+   - **Link:** [Project 2](https://github.com/yasuo72/project2)
+
+### 3. **Project Name 3**
+   - **Description:** A brief description of the project.
+   - **Tech Stack:** List of technologies used.
+   - **Link:** [Project 3](https://github.com/yasuo72/project3)
+
+---
+
 ## 📊 GitHub Stats:
 Check out my GitHub activity and contributions:
 
 ![](https://github-readme-stats.vercel.app/api?username=yasuo72&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yasuo72&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasuo72&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 📈 GitHub Contribution Graph:
+Here's a visual representation of my contributions over the past year:
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/yasuo72)
 
 ---
 
