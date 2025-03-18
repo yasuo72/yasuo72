@@ -93,11 +93,7 @@ Check out my GitHub activity and contributions:
 ---
 
 ## 📈 GitHub Contribution Graph:
-Here's a visual representation of my contributions over the past year:
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/yasuo72)
-
----
+![Ocean Snake Animation](https://raw.githubusercontent.com/yasuo72/.github/workflows/main/dist/ocean.gif)
 
 ## 🏆 GitHub Trophies:
 Here are some of my achievements on GitHub:
