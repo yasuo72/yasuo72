@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm ROHIT SINGH</h1>
 <h3 align="center">A Passionate Full Stack Developer & Android App Enthusiast 🚀</h3>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-profile-id" alt="ROHIT SINGH" width="200" height="200" style="border-radius: 50%;"/>
-</p>
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=yasuo72&label=Profile%20views&color=0e75b6&style=flat" alt="yasuo72" /> 
