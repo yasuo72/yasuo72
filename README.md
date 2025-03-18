@@ -61,27 +61,7 @@ I work with a wide range of technologies to bring ideas to life. Here's a glimps
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
----
 
-## 🚀 Top Projects:
-Here are some of my standout projects that I'm proud of:
-
-### 1. **Project Name 1**
-   - **Description:** A brief description of the project.
-   - **Tech Stack:** List of technologies used.
-   - **Link:** [Project 1](https://github.com/yasuo72/project1)
-
-### 2. **Project Name 2**
-   - **Description:** A brief description of the project.
-   - **Tech Stack:** List of technologies used.
-   - **Link:** [Project 2](https://github.com/yasuo72/project2)
-
-### 3. **Project Name 3**
-   - **Description:** A brief description of the project.
-   - **Tech Stack:** List of technologies used.
-   - **Link:** [Project 3](https://github.com/yasuo72/project3)
-
----
 
 ## 📊 GitHub Stats:
 Check out my GitHub activity and contributions:
