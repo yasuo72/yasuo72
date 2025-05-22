@@ -19,6 +19,7 @@ Let's connect and collaborate! Find me on these platforms:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-singh-47b9a0302) 
 [![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rohitsi12148892) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rs965198@gmail.com)
+[![Email]( https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=256&logoColor=white)](mailto:rs965198@gmail.com)
 
 ---
 
