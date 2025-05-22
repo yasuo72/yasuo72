@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=400&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+ROHIT+SINGH" alt="Typing SVG" /></h3>
+<h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+ROHIT+SINGH" alt="Typing SVG" /></h3>
 <h3 align="center">A Passionate Full Stack Developer & Android App Enthusiast 🚀</h3>
 
 
