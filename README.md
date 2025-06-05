@@ -103,6 +103,10 @@ Here's a look at my most impactful contributions:
 ---
 ![GitHub Snake Dark Code Style](https://raw.githubusercontent.com/yasuo72/yasuo72/output/code.gif)
 ![github contribution snake](https://raw.githubusercontent.com/yasuo72/yasuo72/output/github-snake.svg)
+### 🐍 GitHub Contribution Snake
+
+![github-snake-dark](https://raw.githubusercontent.com/yasuo72/yasuo72/output/github-snake-dark.svg)
+
 
 
 ## 💰 Support My Work:
