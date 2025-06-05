@@ -79,7 +79,9 @@ Check out my GitHub activity and contributions:
 ---
 
 ## 📈 GitHub Contribution Graph:
-![Ocean Snake Animation](https://raw.githubusercontent.com/yasuo72/.github/workflows/main/dist/ocean.gif)
+
+![Snake SVG](https://raw.githubusercontent.com/yasuo72/yasuo72/output/github-snake-dark.svg)
+![Snake GIF](https://raw.githubusercontent.com/yasuo72/yasuo72/output/code.gif)
 
 ## 🏆 GitHub Trophies:
 Here are some of my achievements on GitHub:
@@ -102,10 +104,7 @@ Here's a look at my most impactful contributions:
 
 ---
 
-## 🐍 GitHub Snake Game
 
-![Snake SVG](https://raw.githubusercontent.com/yasuo72/yasuo72/output/github-snake-dark.svg)
-![Snake GIF](https://raw.githubusercontent.com/yasuo72/yasuo72/output/code.gif)
 
 
 
