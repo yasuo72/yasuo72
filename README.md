@@ -101,6 +101,7 @@ Here's a look at my most impactful contributions:
 ![](https://github-contributor-stats.vercel.app/api?username=yasuo72&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
+![github contribution snake](https://raw.githubusercontent.com/yasuo72/yasuo72/output/github-snake.svg)
 
 ## 💰 Support My Work:
 If you find my work helpful or inspiring, consider supporting me:
