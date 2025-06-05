@@ -107,6 +107,12 @@ Here's a look at my most impactful contributions:
 
 ![github-snake-dark](https://raw.githubusercontent.com/yasuo72/yasuo72/output/github-snake-dark.svg)
 
+## 🐍 GitHub Snake Game
+
+![GitHub Snake Light](https://raw.githubusercontent.com/yasuo72/yasuo72/output/dist/github-snake.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/yasuo72/yasuo72/output/dist/github-snake-dark.svg)
+
+
 
 
 ## 💰 Support My Work:
