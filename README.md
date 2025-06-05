@@ -104,7 +104,6 @@ Here's a look at my most impactful contributions:
 ![github contribution snake](https://raw.githubusercontent.com/yasuo72/yasuo72/output/github-snake.svg)
 
 
-![github contribution snake gif](https://raw.githubusercontent.com/yasuo72/yasuo72/output/ocean.gif)
 
 ## 💰 Support My Work:
 If you find my work helpful or inspiring, consider supporting me:
