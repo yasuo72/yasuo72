@@ -102,10 +102,8 @@ Here's a look at my most impactful contributions:
 
 ---
 
-## 🐍 GitHub Snake Game
+![GitHub Snake Animation](https://raw.githubusercontent.com/yasuo72/yasuo72/output/dist/code.gif)
 
-
-![GitHub Snake Dark](https://raw.githubusercontent.com/yasuo72/yasuo72/output/dist/github-snake-dark.svg)
 
 
 
