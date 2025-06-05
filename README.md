@@ -72,7 +72,7 @@ I work with a wide range of technologies to bring ideas to life. Here's a glimps
 ## 📊 GitHub Stats:
 Check out my GitHub activity and contributions:
 
-![](https://github-readme-stats.vercel.app/api?username=yasuo72&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yasuo72&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasuo72&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
