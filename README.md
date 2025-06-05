@@ -101,15 +101,10 @@ Here's a look at my most impactful contributions:
 ![](https://github-contributor-stats.vercel.app/api?username=yasuo72&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-![GitHub Snake Dark Code Style](https://raw.githubusercontent.com/yasuo72/yasuo72/output/code.gif)
-![github contribution snake](https://raw.githubusercontent.com/yasuo72/yasuo72/output/github-snake.svg)
-### 🐍 GitHub Contribution Snake
-
-![github-snake-dark](https://raw.githubusercontent.com/yasuo72/yasuo72/output/github-snake-dark.svg)
 
 ## 🐍 GitHub Snake Game
 
-![GitHub Snake Light](https://raw.githubusercontent.com/yasuo72/yasuo72/output/dist/github-snake.svg)
+
 ![GitHub Snake Dark](https://raw.githubusercontent.com/yasuo72/yasuo72/output/dist/github-snake-dark.svg)
 
 
