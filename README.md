@@ -75,7 +75,7 @@
   </picture>
 </div>
 
-> **Note:** To enable the snake animation, create a GitHub Action in your profile repo. See [snk action](https://github.com/Platane/snk) for setup.
+
 
 ---
 
@@ -94,14 +94,6 @@
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasuo72&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=compact&langs_count=10" alt="Top Languages" width="45%"/>
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasuo72&theme=react-dark&hide_border=true&area=true&custom_title=Yasuo72's%20Contribution%20Graph" width="100%"/>
 </div>
 
 ---
