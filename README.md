@@ -1,4 +1,4 @@
-# 💫 GitHub Profile
+# 💫 About me
 
 <div align="center">
 
@@ -17,13 +17,7 @@
 ---
 
 
-# 💫 About Me:
-<h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+ROHIT+SINGH" alt="Typing SVG" /></h3>
-<h3 align="center">A Passionate Full Stack Developer & Android App Enthusiast 🚀</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=yasuo72&label=Profile%20views&color=0e75b6&style=flat" alt="yasuo72" /> 
-</p>
 
 Welcome to my GitHub profile! I'm a tech enthusiast with a strong passion for building **full-stack web applications** and **Android apps**. I love turning ideas into reality through clean, efficient, and scalable code. Whether it's crafting intuitive user interfaces or solving complex backend challenges, I thrive on creating seamless digital experiences.
 
