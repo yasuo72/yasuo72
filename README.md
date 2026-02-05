@@ -83,12 +83,16 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=yasuo72&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=6C63FF" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasuo72&theme=radical&hide_border=true&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" width="49%"/>
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=yasuo72&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" width="49%"/>
 
-<br/>
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=yasuo72&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasuo72&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages" width="45%"/>
+<br/><br/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasuo72&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=compact&langs_count=10" alt="Top Languages" width="45%"/>
 
 </div>
 
