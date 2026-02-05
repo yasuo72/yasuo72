@@ -84,8 +84,15 @@ I love turning ideas into reality through clean, efficient, and scalable code—
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yasuo72&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasuo72&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F85D7F" height="165" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yasuo72&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com?user=yasuo72&theme=radical&hide_border=true" />
+
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasuo72&theme=radical&hide_border=true&layout=compact" />
+
+</div>
+
 
 <br/><br/>
 
