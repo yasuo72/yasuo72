@@ -90,21 +90,19 @@ I love turning ideas into reality through clean, efficient, and scalable code—
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yasuo72&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://streak-stats.demolab.com?user=yasuo72&theme=radical&hide_border=true" />
+<!-- Main stats (primary) -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yasuo72&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=7200" alt="stats" />
+
+<!-- Streak (stable host) -->
+<img height="170" src="https://streak-stats.demolab.com?user=yasuo72&theme=radical&hide_border=true" alt="streak" />
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasuo72&theme=radical&hide_border=true&layout=compact" />
+<!-- Top langs -->
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasuo72&theme=radical&hide_border=true&layout=compact&langs_count=10&cache_seconds=7200" alt="top langs" />
 
 </div>
 
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasuo72&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=compact&langs_count=10" height="165" />
-
-</div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
