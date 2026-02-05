@@ -87,9 +87,9 @@ Check out my GitHub activity and contributions:
 Showcasing my GitHub achievements and milestones:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yasuo72&theme=radical&no-frame=false&no-bg=false&margin-w=4&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=yasuo72&theme=radical&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
-
+---
 ### 🎯 Trophy Categories:
 - **Stars** - Repository stars received
 - **Commits** - Total commits made
