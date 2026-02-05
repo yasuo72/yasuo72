@@ -1,4 +1,4 @@
-# 💫 Modern Animated 3D GitHub Profile
+# 💫 GitHub Profile
 
 <div align="center">
 
