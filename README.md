@@ -69,13 +69,11 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasuo72/yasuo72/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasuo72/yasuo72/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/yasuo72/yasuo72/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasuo72/yasuo72/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasuo72/yasuo72/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/yasuo72/yasuo72/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-
 
 ---
 
@@ -84,15 +82,15 @@
 <div align="center">
   
 <!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=yasuo72&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yasuo72&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=yasuo72&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=yasuo72&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
 
 <br/><br/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasuo72&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=compact&langs_count=10" alt="Top Languages" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasuo72&theme=radical&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" width="45%"/>
 
 </div>
 
@@ -149,8 +147,8 @@
 
 <div align="center">
 
+<!-- Optional: If you set up the WakaTime GitHub Action, it will inject stats here -->
 <!--START_SECTION:waka-->
-<!-- Wakatime stats will appear here if you set up the action -->
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yasuo72&theme=radical&hide_border=true&layout=compact" alt="Wakatime Stats" width="60%"/>
@@ -174,6 +172,7 @@
 ## 🎯 Current Focus
 
 <div align="center">
+<!-- You can add your current learning / building focus here -->
 </div>
 
 ---
