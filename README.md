@@ -89,18 +89,7 @@ Showcasing my GitHub achievements and milestones:
 <p align="center">
   <img src="https://github-profile-trophy-tawny.vercel.app/?username=yasuo72&theme=radical&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
----
-### 🎯 Trophy Categories:
-- **Stars** - Repository stars received
-- **Commits** - Total commits made
-- **Followers** - GitHub followers count
-- **Issues** - Issues created
-- **Pull Requests** - PRs contributed
-- **Repositories** - Public repositories created
-- **Experience** - Years on GitHub
-- **MultiLanguage** - Different languages used
 
-> 💡 **Pro Tip:** Trophies rank from **SSS** (highest) to **C** (beginner), with special **SECRET** trophies for hidden achievements!
 
 ---
 
