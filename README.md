@@ -86,20 +86,26 @@ I love turning ideas into reality through clean, efficient, and scalable code—
 
 ---
 
-## 📊 GitHub Stats (Neon / Card Style)
+## 📊 GitHub Stats (Neon / Card Style) — FIXED (use mirrors + smaller params)
 
 <div align="center">
 
-<!-- Main stats (primary) -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yasuo72&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=7200" alt="stats" />
+<!-- ✅ Stats (Mirror host #1) -->
+<img height="170"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yasuo72&show_icons=true&theme=radical&hide_border=true&rank_icon=github"
+  alt="GitHub Stats" />
 
-<!-- Streak (stable host) -->
-<img height="170" src="https://streak-stats.demolab.com?user=yasuo72&theme=radical&hide_border=true" alt="streak" />
+<!-- ✅ Streak (Demolab is best) -->
+<img height="170"
+  src="https://streak-stats.demolab.com?user=yasuo72&theme=radical&hide_border=true"
+  alt="GitHub Streak" />
 
 <br/><br/>
 
-<!-- Top langs -->
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasuo72&theme=radical&hide_border=true&layout=compact&langs_count=10&cache_seconds=7200" alt="top langs" />
+<!-- ✅ Top Languages (Mirror host #1) -->
+<img height="170"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yasuo72&theme=radical&hide_border=true&layout=compact&langs_count=10"
+  alt="Top Languages" />
 
 </div>
 
