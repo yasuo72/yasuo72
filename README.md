@@ -2,8 +2,6 @@
 <h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+ROHIT+SINGH" alt="Typing SVG" /></h3>
 <h3 align="center">A Passionate Full Stack Developer & Android App Enthusiast 🚀</h3>
 
-
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=yasuo72&label=Profile%20views&color=0e75b6&style=flat" alt="yasuo72" /> 
 </p>
@@ -26,6 +24,7 @@ Let's connect and collaborate! Find me on these platforms:
        height="40" 
        style="vertical-align: middle;">
 </a>
+
 ---
 
 ## 💻 Tech Stack:
@@ -67,11 +66,10 @@ I work with a wide range of technologies to bring ideas to life. Here's a glimps
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
-
+---
 
 ## 📊 GitHub Stats:
 Check out my GitHub activity and contributions:
-
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yasuo72&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasuo72&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -83,10 +81,26 @@ Check out my GitHub activity and contributions:
 ![Snake SVG](https://raw.githubusercontent.com/yasuo72/yasuo72/output/github-snake-dark.svg)
 ![Snake GIF](https://raw.githubusercontent.com/yasuo72/yasuo72/output/code.gif)
 
-## 🏆 GitHub Trophies:
-Here are some of my achievements on GitHub:
+---
 
-![](https://github-profile-trophy.vercel.app/?username=yasuo72&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies:
+Showcasing my GitHub achievements and milestones:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yasuo72&theme=radical&no-frame=false&no-bg=false&margin-w=4&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
+</p>
+
+### 🎯 Trophy Categories:
+- **Stars** - Repository stars received
+- **Commits** - Total commits made
+- **Followers** - GitHub followers count
+- **Issues** - Issues created
+- **Pull Requests** - PRs contributed
+- **Repositories** - Public repositories created
+- **Experience** - Years on GitHub
+- **MultiLanguage** - Different languages used
+
+> 💡 **Pro Tip:** Trophies rank from **SSS** (highest) to **C** (beginner), with special **SECRET** trophies for hidden achievements!
 
 ---
 
@@ -104,13 +118,6 @@ Here's a look at my most impactful contributions:
 
 ---
 
-
-
-
-
-
-
-
 ## 💰 Support My Work:
 If you find my work helpful or inspiring, consider supporting me:
 
@@ -118,7 +125,10 @@ If you find my work helpful or inspiring, consider supporting me:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hello)
 
 ---
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fopplozcf2y27vrx72p72zz3xm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+---
 
 ## 🚀 Let's Build Something Amazing Together!
 I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out to me via email or any of my social media profiles. Let's create something extraordinary! 🌟
