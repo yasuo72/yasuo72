@@ -1,12 +1,31 @@
-# 💫 About Me:
-<h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+ROHIT+SINGH" alt="Typing SVG" /></h3>
-<h3 align="center">A Passionate Full Stack Developer & Android App Enthusiast 🚀</h3>
+# 💫 Modern Animated 3D GitHub Profile
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=yasuo72&label=Profile%20views&color=0e75b6&style=flat" alt="yasuo72" /> 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ROHIT%20SINGH&fontSize=80&fontAlignY=35&animation=twinkling" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Rohit+Singh;Full+Stack+Developer+%F0%9F%92%BB;Android+%26+Flutter+Enthusiast+%F0%9F%93%B1;Open+Source+Contributor+%F0%9F%8C%9F" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=yasuo72&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/yasuo72?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/yasuo72?style=for-the-badge" />
 </p>
 
-Welcome to my GitHub profile! I'm a tech enthusiast with a strong passion for building **full-stack web applications** and **Android apps**. I love turning ideas into reality through clean, efficient, and scalable code. Whether it's crafting intuitive user interfaces or solving complex backend challenges, I thrive on creating seamless digital experiences.
+</div>
+---
+
+## 🎭 About Me
+
+```js
+const rohit = {
+  location: "India 🇮🇳",
+  role: "Full Stack Developer",
+  tech: ["React", "Node", "Flutter", "Docker", "AWS"],
+  currentlyBuilding: "Scalable apps & open-source tools",
+  funFact: "I fix bugs faster than my sleep schedule 😄"
+}
+
 
 ---
 
