@@ -131,3 +131,4 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 ⭐ If you like my work, consider giving my repos a star! ⭐
 
 <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/Powered%20by-Coffee%20☕-brown?style=for-the-badge" /> <img src="https://img.shields.io/badge/Open%20Source-Forever%20💚-green?style=for-the-badge" /></div><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) and enhanced with ❤️ -->
+github trophies and coding matrix ,github stats all have issue not shoing improper showinf fix it
